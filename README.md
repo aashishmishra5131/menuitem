@@ -1,2 +1,2 @@
-Application start with --- nodemon/index.js
+Application start with --- nodemon index.js
 
